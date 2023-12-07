@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v6xiWIqK3/t0rRDTxgdfYhHMwDFPvsVLeIA8GcvxPnR1DOOgLEyvbDKScYPkQkbk8xCOq8SnCM+MD5SNL6yMtA==",
+  "dgSpecHash": "j1zM8r/EQfwiy6PslLDrtGzW5A5fgHy9yzSlOBmK07EEBaF8NsTk2xC3QH72E1+Wwr9oCOGOUM8InxInJJ8FUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bigmi\\OneDrive\\Desktop\\repos\\WeatherMapAPI\\WeatherMapAPI\\WeatherMapAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bigmi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
